@@ -1,0 +1,10 @@
+CREATE TABLE [dbo].[CompanyReservations](
+    [ReservationID] [int] NOT NULL,
+    [CompanyID] [int] NOT NULL,
+    [DueDate] [date] NOT NULL,
+ CONSTRAINT [PK_CompanyReservation] PRIMARY KEY CLUSTERED
+(
+    [ReservationID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
