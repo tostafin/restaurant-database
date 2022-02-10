@@ -34,3 +34,9 @@ The database allows the following discount program for private clients:
 *R1*% (e.g *R1* = 3%) discount for every order);
 - after completing a given number of orders for *K2* (e.g. *K2* = $1000): a one-time discount *R2%* (e.g. *R2* = 5%) for
 orders placed for *D1* days (e.g. *D1* = 7) starting from the day of receiving the discount (discount don't stack).
+
+## Reports
+The database enables a user to generate monthly and weekly reports containing information about table bookings, discounts,
+menu and orders statistics including amounts and dates for both private and company customers.
+
+It's also possible to generate reports regarding orders and discounts for private customers and companies.
