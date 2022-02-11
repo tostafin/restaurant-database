@@ -3,8 +3,8 @@ This repo contains an SQL database for maintaining a restaurant.
 
 ## Authors
 The entire project was written and maintained by:
-- Adam Barański
-- Tomasz Ostafin
+- [Adam Barański](https://github.com/baranskixx)
+- [Tomasz Ostafin](https://github.com/tostafin)
 - Michał Wójcik
 
 ## General info
